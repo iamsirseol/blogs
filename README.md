@@ -5,3 +5,4 @@
 [Redux-Thunk Youtube](https://www.youtube.com/watch?v=JDZRfLGNWdc) <br>
 [CloundFront + S3 Bucket 갱신](https://penguingoon.tistory.com/256) <br>
 [window.URL.createObjectURL 관련](https://kyounghwan01.github.io/blog/JS/JSbasic/Blob-url/#createobjecturl)
+[.gitignore 안될 ](https://kyu9341.github.io/Git/2020/08/23/git_gitignore/)
