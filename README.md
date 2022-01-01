@@ -11,3 +11,4 @@
 [AWS - S3, CloudFront, Route53](https://velog.io/@seongkyun/AWS-S3-CloudFront-Route53%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A0%95%EC%A0%81-%ED%98%B8%EC%8A%A4%ED%8C%85) <br>
 [unix_time ](https://stackoverflow.com/questions/847185/convert-a-unix-timestamp-to-time-in-javascript) <br>
 [리액트 상태](https://www.stevy.dev/react-state-management-guide) <br>
+[node.js 싱글스레드](https://velog.io/@daeseongkim/Node.js-Node.js%EB%8A%94-%EC%8B%B1%EA%B8%80-%EC%8A%A4%EB%A0%88%EB%93%9C) <br>
