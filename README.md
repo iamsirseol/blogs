@@ -13,3 +13,4 @@
 [리액트 상태](https://www.stevy.dev/react-state-management-guide) <br>
 [node.js 싱글스레드](https://velog.io/@daeseongkim/Node.js-Node.js%EB%8A%94-%EC%8B%B1%EA%B8%80-%EC%8A%A4%EB%A0%88%EB%93%9C) <br>
 [aixos](https://masteringjs.io/tutorials/axios/options) <br>
+[터미널 jekyll 에러 핸들링](https://github.com/rbenv/rbenv/issues/1267) <br>
