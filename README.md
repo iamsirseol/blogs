@@ -15,3 +15,4 @@
 [aixos](https://masteringjs.io/tutorials/axios/options) <br>
 [터미널 jekyll 에러 핸들링](https://github.com/rbenv/rbenv/issues/1267) <br>
 [node.js의 비동기](https://www.nextree.co.kr/p7292/) <br>
+[asd](https://urclass.codestates.com/64c14750-eeaa-4c91-a65e-dca4f4058002?playlist=961)<br>
