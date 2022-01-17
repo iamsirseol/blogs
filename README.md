@@ -16,4 +16,4 @@
 [터미널 jekyll 에러 핸들링](https://github.com/rbenv/rbenv/issues/1267) <br>
 [node.js의 비동기](https://www.nextree.co.kr/p7292/) <br>
 [asd](https://urclass.codestates.com/64c14750-eeaa-4c91-a65e-dca4f4058002?playlist=961)<br>
-hshsh()https://www.youtube.com/watch?v=b_ICyGt6FbQ <br>
+[코드스테이츠 잡서칭](https://codestates.notion.site/SEB-33-fef53bf340354016b9d6c4149d598d48) <br>
