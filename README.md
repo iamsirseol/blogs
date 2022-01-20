@@ -17,4 +17,4 @@
 [node.js의 비동기](https://www.nextree.co.kr/p7292/) <br>
 [asd](https://urclass.codestates.com/64c14750-eeaa-4c91-a65e-dca4f4058002?playlist=961)<br>
 [코드스테이츠 잡서칭](https://codestates.notion.site/SEB-33-fef53bf340354016b9d6c4149d598d48) <br>
-https://howhttps.works/
+[how HTTPS works](https://howhttps.works/) <br>
