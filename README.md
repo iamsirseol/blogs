@@ -15,8 +15,7 @@
 [aixos](https://masteringjs.io/tutorials/axios/options) <br>
 [터미널 jekyll 에러 핸들링](https://github.com/rbenv/rbenv/issues/1267) <br>
 [node.js의 비동기](https://www.nextree.co.kr/p7292/) <br>
-[asd](https://urclass.codestates.com/64c14750-eeaa-4c91-a65e-dca4f4058002?playlist=961)<br>
 [코드스테이츠 잡서칭](https://codestates.notion.site/SEB-33-fef53bf340354016b9d6c4149d598d48) <br>
 [how HTTPS works](https://howhttps.works/) <br>
 [원시값 & 참조값](https://github.com/FE-Lex-Kim/-TIL/blob/master/Javascript/%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90.md) <br>
-<br>
+[브라우저는 어떻게 작동하는가?](https://d2.naver.com/helloworld/59361)<br>
