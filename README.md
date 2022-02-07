@@ -19,3 +19,4 @@
 [how HTTPS works](https://howhttps.works/) <br>
 [원시값 & 참조값](https://github.com/FE-Lex-Kim/-TIL/blob/master/Javascript/%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90.md) <br>
 [브라우저는 어떻게 작동하는가?](https://d2.naver.com/helloworld/59361)<br>
+[조엘온소프트웨어 리뷰](https://mangkyu.tistory.com/138)<br>
