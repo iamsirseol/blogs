@@ -21,4 +21,5 @@
 [브라우저는 어떻게 작동하는가?](https://d2.naver.com/helloworld/59361)<br>
 [조엘온소프트웨어 리뷰](https://mangkyu.tistory.com/138)<br>
 [React Lifecycle](https://kyun2da.dev/react/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%98-%EC%9D%B4%ED%95%B4/)<br>
-[](https://hackernoon.com/being-a-junior-developer-at-30-38309f1daee8)<br>
+[@](https://hackernoon.com/being-a-junior-developer-at-30-38309f1daee8)<br>
+[local에서 cors문제 해결방법](https://medium.com/swlh/avoiding-cors-errors-on-localhost-in-2020-5a656ed8cefa)<br>
