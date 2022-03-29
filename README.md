@@ -23,3 +23,4 @@
 [React Lifecycle](https://kyun2da.dev/react/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%98-%EC%9D%B4%ED%95%B4/)<br>
 [hackernoon](https://hackernoon.com/)<br>
 [local에서 cors문제 해결방법](https://medium.com/swlh/avoiding-cors-errors-on-localhost-in-2020-5a656ed8cefa)<br>
+[웹하면서 3년간 페어로 일했던 프론트 개발자](https://steemit.com/develop/@whosoonhwang/3)<br>
