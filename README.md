@@ -24,3 +24,4 @@
 [local에서 cors문제 해결방법](https://medium.com/swlh/avoiding-cors-errors-on-localhost-in-2020-5a656ed8cefa)<br>
 [웹하면서 3년간 페어로 일했던 프론트 개발자](https://steemit.com/develop/@whosoonhwang/3)<br>
 [D3.js](https://velog.io/@smooth97/-Data-Visualizing-D3.js-%EB%9E%80)<br>
+[clean code for ts](https://738.github.io/clean-code-typescript/#%EB%AA%A9%EC%B0%A8)<br>
