@@ -1,6 +1,9 @@
 # blogs
 유용한 블로그 모음
 
+## Article
+* [조엘온소프트웨어 리뷰](https://mangkyu.tistory.com/138)<br>
+
 [git hub 블로그 에러](https://choijaegwon.github.io/githubblog/GithubBlog1/) <br>
 [Redux-Thunk Youtube](https://www.youtube.com/watch?v=JDZRfLGNWdc) <br>
 [CloundFront + S3 Bucket 갱신](https://penguingoon.tistory.com/256) <br>
@@ -18,10 +21,13 @@
 [how HTTPS works](https://howhttps.works/) <br>
 [원시값 & 참조값](https://github.com/FE-Lex-Kim/-TIL/blob/master/Javascript/%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90.md) <br>
 [브라우저는 어떻게 작동하는가?](https://d2.naver.com/helloworld/59361)<br>
-[조엘온소프트웨어 리뷰](https://mangkyu.tistory.com/138)<br>
+
 [React Lifecycle](https://kyun2da.dev/react/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%98-%EC%9D%B4%ED%95%B4/)<br>
 [hackernoon](https://hackernoon.com/)<br>
 [local에서 cors문제 해결방법](https://medium.com/swlh/avoiding-cors-errors-on-localhost-in-2020-5a656ed8cefa)<br>
 [웹하면서 3년간 페어로 일했던 프론트 개발자](https://steemit.com/develop/@whosoonhwang/3)<br>
 [D3.js](https://velog.io/@smooth97/-Data-Visualizing-D3.js-%EB%9E%80)<br>
 [clean code for ts](https://738.github.io/clean-code-typescript/#%EB%AA%A9%EC%B0%A8)<br>
+## ETC
+* [깃레포에 바로 커밋하기](https://velog.io/@lob3767/Mac-Git-hub%EC%97%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A6%AC%EA%B8%B0)<br>
+* [Mac 노드버전 변경](https://dev-yakuza.posstree.com/ko/environment/nvm/)<br>
