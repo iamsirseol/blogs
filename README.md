@@ -3,6 +3,7 @@
 ## Tech
 * [AntD 계정 등록](https://e2e2e2.tistory.com/21)<br>
 * [git hub 블로그 에러](https://choijaegwon.github.io/githubblog/GithubBlog1/) <br>
+* [async await 원리](https://medium.com/sjk5766/async-await-%EC%9B%90%EB%A6%AC-cc643f18526d) <br>
 
 
 ## Article
