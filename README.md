@@ -6,6 +6,7 @@
 * [async await 원리](https://medium.com/sjk5766/async-await-%EC%9B%90%EB%A6%AC-cc643f18526d) <br>
 * [React lazy, suspence](https://web.dev/i18n/ko/code-splitting-suspense/) <br>
 * [5 methods persist state in React](https://blog.bitsrc.io/5-methods-to-persisting-state-between-page-reloads-in-react-8fc9abd3fa2f) <br>
+* [React로 Next.js 처럼 Server-side-rendering 구현하기](https://minoo.medium.com/next-js-%EC%B2%98%EB%9F%BC-server-side-rendering-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-7608e82a0ab1)<br>
 
 
 ## Article
