@@ -7,8 +7,7 @@
 * [React lazy, suspence](https://web.dev/i18n/ko/code-splitting-suspense/) <br>
 * [5 methods persist state in React](https://blog.bitsrc.io/5-methods-to-persisting-state-between-page-reloads-in-react-8fc9abd3fa2f) <br>
 * [React로 Next.js 처럼 Server-side-rendering 구현하기](https://minoo.medium.com/next-js-%EC%B2%98%EB%9F%BC-server-side-rendering-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-7608e82a0ab1)<br>
-* [non-fast-forward 해결](https://velog.io/@rain98/%EA%B9%83%ED%97%88%EB%B8%8C-non-fast-forward-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-* [React로 Next.js 처럼 Server-side-rendering 구현하기](https://minoo.medium.com/next-js-%EC%B2%98%EB%9F%BC-server-side-rendering-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-7608e82a0ab1)<br>
+* [non-fast-forward 해결](https://velog.io/@rain98/%EA%B9%83%ED%97%88%EB%B8%8C-non-fast-forward-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0) <br>
 
 
 ## Article
