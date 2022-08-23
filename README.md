@@ -2,7 +2,6 @@
 유용한 블로그 모음
 ## Tech
 * [AntD 계정 등록](https://e2e2e2.tistory.com/21)<br>
-* [git hub 블로그 에러](https://choijaegwon.github.io/githubblog/GithubBlog1/) <br>
 * [async await 원리](https://medium.com/sjk5766/async-await-%EC%9B%90%EB%A6%AC-cc643f18526d) <br>
 * [React lazy, suspence](https://web.dev/i18n/ko/code-splitting-suspense/) <br>
 * [5 methods persist state in React](https://blog.bitsrc.io/5-methods-to-persisting-state-between-page-reloads-in-react-8fc9abd3fa2f) <br>
