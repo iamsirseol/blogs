@@ -8,6 +8,7 @@
 * [React로 Next.js 처럼 Server-side-rendering 구현하기](https://minoo.medium.com/next-js-%EC%B2%98%EB%9F%BC-server-side-rendering-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-7608e82a0ab1)<br>
 * [non-fast-forward 해결](https://velog.io/@rain98/%EA%B9%83%ED%97%88%EB%B8%8C-non-fast-forward-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0) <br>
 * [CSS 프레임웍 모아놓은 블로그](https://velog.io/@eunjin/React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B7%B8%EB%9E%98%ED%94%84%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%AA%A8%EC%9D%8C)<br>
+* [React 페이지 draggable (라)](https://velog.io/@tunakim/%EB%A7%88%EC%9A%B0%EC%8A%A4-%EB%93%9C%EB%9E%98%EA%B7%B8%EB%A1%9C-%EC%A2%8C%EC%9A%B0-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84-ft.-React)
 
 
 ## Article
