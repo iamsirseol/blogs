@@ -10,6 +10,7 @@
 * [CSS 프레임웍 모아놓은 블로그](https://velog.io/@eunjin/React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B7%B8%EB%9E%98%ED%94%84%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%AA%A8%EC%9D%8C)<br>
 * [React 페이지 draggable (라)](https://velog.io/@tunakim/%EB%A7%88%EC%9A%B0%EC%8A%A4-%EB%93%9C%EB%9E%98%EA%B7%B8%EB%A1%9C-%EC%A2%8C%EC%9A%B0-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84-ft.-React)<br>
 * [BCP 47 language tag](https://www.techonthenet.com/js/language_tags.php)<br>
+* [프로세스 & 스레드] (https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html) <br>
 
 
 ## Article
